@@ -1,5 +1,5 @@
 【使用方法】
-1. BackLog\bin\Release\net10.0-windows\BackLog.exe
+1. BackLog\bin\Debug\net10.0-windows\BackLog.exe
 
 【说明】
 1. 目前只有中文版。
